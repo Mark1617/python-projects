@@ -1,0 +1,3 @@
+This was a project I undertook in jupyter notebooks to test the statistical knowledge I had gained from a large Data Science course.
+It uses various libraries and probabilistic calculations such as the naive bayes theorem, along with a large dataset of SMS messages, to train and 
+test a spam filter which ended having 98% accuracy.
