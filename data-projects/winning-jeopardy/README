@@ -1,0 +1,3 @@
+This is a project I undertook for fun to test how I would theoretically win the game show Jeopardy. I used a large dataset of almost 20000 questions and 
+answers to answer questions like, can you guess answers based on questions, what topics are used regularly in the more valuable questions, and how commonly
+do they reuse questions. I'd like to work on this more and fill it out. 
