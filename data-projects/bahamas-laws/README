@@ -1,0 +1,2 @@
+This was a task I undertook as part of a job application, but was curious and hence continued to learn about the framework Scrapy.
+In it I use Scrapy to web scrape all the pdf files from the Bahamas government website to create a JSON containing the relevant information.
