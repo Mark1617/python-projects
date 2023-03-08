@@ -1,0 +1,101 @@
+Crime ID,Month,Reported by,Falls within,Location,Crime type,Outcome
+0327da47e3d40e078eeac732224505f7627b21a4556e74ae7e3935ff8465d5f7,2021-02,Merseyside Police,Merseyside Police,On or near Mark Street,Public order,Suspect charged
+ff4e29c0d430e45c69371691b77299c1494975d437b948cf642da298074b9075,2022-08,Cumbria Constabulary,Cumbria Constabulary,On or near Langrigg Road,Public order,Unable to prosecute suspect
+dc9fa2c3e14d4ef6a68f280ce798317a52379c51b7fecae3bcaf83de61a6e4ab,2021-07,City of London Police,City of London Police,On or near Lindsey Street,Drugs,Suspect charged
+5a6dc5abf3c209c7e05db1a3ddb306e7afb49ee0d9ca80d3a0909c069011da17,2021-03,Merseyside Police,Merseyside Police,On or near Kenilworth Street,Violence and sexual offences,Investigation complete; no suspect identified
+f06b3988497cc1dcefe30188ff4b3082b67ec94e6c6710b80cf679fe34b775f2,2020-09,Essex Police,Essex Police,On or near Pedestrian Subway,Public order,Investigation complete; no suspect identified
+866dfdc46d342a66bf0e94c92e6d257eff90ae3551d3f3b2637c9e1516b0bf8b,2020-11,Cheshire Constabulary,Cheshire Constabulary,On or near South Bank Grove,Violence and sexual offences,Unable to prosecute suspect
+409892b7bcbdced217bb15fcfeccd267fcee6e3c00eb836bf957e130149cad8f,2022-12,Hampshire Constabulary,Hampshire Constabulary,On or near Merlin Close,Violence and sexual offences,Local resolution
+28fa3297bd918a16d0c497fd660245e6e53a4b9ff23bc824c1200b1b3eba04b6,2021-03,Merseyside Police,Merseyside Police,On or near Union Street,Violence and sexual offences,Action to be taken by another organisation
+eb87170425dcd928e0dc67f03533b19343cec80f65f72fa8eb3c726295aff725,2022-09,Essex Police,Essex Police,On or near Steeple Way,Other theft,Investigation complete; no suspect identified
+09fe1734d44016633c4dc90a553d8393a7ab9419c495fa2e99415403afdbc66d,2020-01,West Yorkshire Police,West Yorkshire Police,On or near Wightman Street,Violence and sexual offences,Unable to prosecute suspect
+acedda543850b09b089eabe2ce1bded13e0b53dc9ee639573ef5eef298ceda34,2021-07,Devon & Cornwall Police,Devon & Cornwall Police,On or near Grove Court,Violence and sexual offences,Unable to prosecute suspect
+3423f63286de303acd9bb7bde81b3713856fccac05baebae0de35a4436ce66d3,2021-07,Metropolitan Police Service,Metropolitan Police Service,On or near Broadfield Close,Violence and sexual offences,Investigation complete; no suspect identified
+577b50f729228da3384b092a7398e8ee2493632f52a795c9da0924e65d8d5091,2022-01,Hampshire Constabulary,Hampshire Constabulary,On or near Supermarket,Burglary,Investigation complete; no suspect identified
+95a7a3d10d471c96b69427fb2bfe2bfca013ff1b6091f7dfa2e8ad3fd801dc2e,2021-12,Thames Valley Police,Thames Valley Police,On or near Portman Close,Shoplifting,Unable to prosecute suspect
+5cf61189473c3fd7bc84b192a3d4729f764656fb30d9a4c19836433aee60ebb4,2022-11,Humberside Police,Humberside Police,On or near Leamington Close,Shoplifting,Suspect charged
+aba96e907ee6749d36ca87cd782ccfbe6f14ae2c78a7028a2abf01236d227d89,2021-10,Metropolitan Police Service,Metropolitan Police Service,On or near Petrol Station,Other theft,Investigation complete; no suspect identified
+4ee555468dd10a04e14f2e9ae0780c576419f1bf9ab7ff51fa21fc6977a6de4a,2022-05,Humberside Police,Humberside Police,On or near Hanover Drive,Burglary,Unable to prosecute suspect
+55e4450b988800b40736d0aa8e5595a7aee2457e911076b4cbdd287fda06841b,2020-06,Northamptonshire Police,Northamptonshire Police,On or near Little Meadow,Violence and sexual offences,Unable to prosecute suspect
+8f2099b3270cab8ae67db16c645d0b4fec0c3e2082e204b934b7eec1145c6fde,2020-06,Essex Police,Essex Police,On or near Irvon Hill Road,Vehicle crime,Investigation complete; no suspect identified
+3496bbe86a67b93644bb266d7cb5175817ed47fb49f788e42b6686fe62dcae3f,2021-06,West Yorkshire Police,West Yorkshire Police,On or near Aspen Grove,Burglary,Investigation complete; no suspect identified
+a05c3730079f5fd8a9af33ec14a7dc65479d66cf6495dca0662a24fe361e9708,2021-01,Merseyside Police,Merseyside Police,On or near Hollow Croft,Violence and sexual offences,Unable to prosecute suspect
+ce5f5bfa8b9946071a06ebbecc30569edf81291e582d71b8a87cddcd1f1c6596,2021-05,Metropolitan Police Service,Metropolitan Police Service,On or near Pascoe Road,Burglary,Investigation complete; no suspect identified
+a6ebb65f60c5c66e91c0112be6248345b1bee6be62e82983df052e60430249a2,2021-06,Nottinghamshire Police,Nottinghamshire Police,On or near Belper Road,Violence and sexual offences,Suspect charged
+b59b926ec6a6f1f13db02993617039b63d5c5b760e4cdad621b706e27c9db493,2020-01,Merseyside Police,Merseyside Police,On or near Supermarket,Violence and sexual offences,Unable to prosecute suspect
+17f66e8de9f8a3fd2132b2caf2d43cfdae180c43a96b0824446bc84ecc8377c2,2020-09,Metropolitan Police Service,Metropolitan Police Service,On or near Pelham Road,Drugs,Suspect charged
+ad642461bc6eea4389a6a195e1948e12774e2dbb9781efd533aa94191c35ab76,2021-11,Metropolitan Police Service,Metropolitan Police Service,On or near Clapham Park Road,Other theft,Investigation complete; no suspect identified
+34b59c224c84566d30f5dc24005f93ddc6e2ffb4339e1a6e416c5181565797ce,2020-06,West Yorkshire Police,West Yorkshire Police,On or near Mount Crescent,Burglary,Investigation complete; no suspect identified
+dbe23d0801ec71bda335fd008d32af8873a57931f524a533f29be262308748de,2020-10,Staffordshire Police,Staffordshire Police,On or near Petrol Station,Other theft,Investigation complete; no suspect identified
+8c01e68d189e231fc48fee06275f532636ebf933e9b79ce29470b0981c6d486e,2020-12,Merseyside Police,Merseyside Police,On or near Worcester Road,Violence and sexual offences,Unable to prosecute suspect
+8e240100349a762e389e3f77af5a65a5c29753f69bcd0f43c35e735f5fa3ec3a,2021-08,Hampshire Constabulary,Hampshire Constabulary,On or near Connaught Road,Other theft,Investigation complete; no suspect identified
+afe9e53b983a20914a22a66b6e37b7587272703099f56059a7ff175c68ab0559,2021-03,Suffolk Constabulary,Suffolk Constabulary,On or near Beaconsfield Road,Violence and sexual offences,Unable to prosecute suspect
+96194162c085aeab3a7fffb026676b090e3e752819c55b4001ba4b37bbcc6821,2022-02,Hertfordshire Constabulary,Hertfordshire Constabulary,On or near Further/Higher Educational Building,Other theft,Investigation complete; no suspect identified
+a2091be2286587b191c325ae64b9a0b3e238d3aca0da3bad34441ebc4444b76e,2021-04,Cleveland Police,Cleveland Police,On or near Parking Area,Violence and sexual offences,Unable to prosecute suspect
+018d9f1102e6da3cc40bf8cf1eab2b832c129ad7907c8bbd1b8a40b35a4b7bf3,2022-02,Metropolitan Police Service,Metropolitan Police Service,On or near Shopping Area,Robbery,Suspect charged
+f1b6e108804321be221b0ef45adda4d940376ff5b86016849e50f111af3c779f,2020-12,West Midlands Police,West Midlands Police,On or near Lane Avenue,Shoplifting,Suspect charged
+a1bf4a9c4c0decd1c504e6d71571311d717a0d79854372b36624692eb556846b,2022-09,Cheshire Constabulary,Cheshire Constabulary,On or near Keele Crescent,Public order,Investigation complete; no suspect identified
+bc15a381b5480e37d6186e2c38dc80f11e4835551a0aba292c5b20436bbae451,2020-09,Cambridgeshire Constabulary,Cambridgeshire Constabulary,On or near Paston Ridings,Vehicle crime,Investigation complete; no suspect identified
+9102f66e2dbea68dd8f2a8ce5cbac4559d5420bbe515d90e8bc359aacb9a9c09,2020-12,Wiltshire Police,Wiltshire Police,On or near Everleigh Road,Violence and sexual offences,Unable to prosecute suspect
+5150cd5c714a3fda57daef28992d92338c1d803fa61ccdef700abb1134bb3792,2021-12,Northumbria Police,Northumbria Police,On or near Friarage Avenue,Public order,Investigation complete; no suspect identified
+3d4a88480979ac04c03a84536d0c4987999df3b7762cafb8d5606079f2988a2d,2020-11,West Midlands Police,West Midlands Police,On or near Wakeman Grove,Vehicle crime,Investigation complete; no suspect identified
+4c4521da8c01ec4e01d22ebd388da2ec7ebe960ee69313d6cf71eeb01b3211e3,2022-01,North Wales Police,North Wales Police,On or near St. Asaph Road,Violence and sexual offences,Unable to prosecute suspect
+9ec63f684e3cc04c000beac407eead0402573817a2be24ba8d8a2fb74d505d40,2022-02,West Yorkshire Police,West Yorkshire Police,On or near Canal Street,Burglary,Investigation complete; no suspect identified
+410b9b5442f93df58875d59c1be21cdfb6e36fc39abd717dfd561eadb3da0866,2022-11,Cheshire Constabulary,Cheshire Constabulary,On or near ,Violence and sexual offences,Investigation complete; no suspect identified
+cf2888f4c32322bb55437327cc9ae12a798a207f03a90aab2d03472a49ecc562,2020-09,Merseyside Police,Merseyside Police,On or near Mindale Road,Violence and sexual offences,Unable to prosecute suspect
+f8e08d9e9fec8710fddf20365bd45d357a3b5d2350bd864a055ad9abda717f89,2020-03,Metropolitan Police Service,Metropolitan Police Service,On or near Spring Place,Violence and sexual offences,Suspect charged
+f4030db9e316739c591cdc51492d5cdec29b045986afcce9a97af48d79c3b3e7,2020-03,Merseyside Police,Merseyside Police,On or near Broadway,Public order,Investigation complete; no suspect identified
+e2e61ff56115e0f7deb64de2ffb912b369ae41490b213565981604c61d834f46,2020-02,Dyfed-Powys Police,Dyfed-Powys Police,On or near Nant Fach,Criminal damage and arson,Investigation complete; no suspect identified
+ed224ea0a010b06cddd8c9c07e8f279639fe8e833e8affc7c9f0faded96f80b1,2022-03,Dorset Police,Dorset Police,On or near Clayton Close,Criminal damage and arson,Investigation complete; no suspect identified
+c8bd522b8feecf582009079fb910bf8b7190d3f654921081ac78a7020ea629d4,2020-02,Warwickshire Police,Warwickshire Police,On or near Petrol Station,Other theft,Investigation complete; no suspect identified
+7f654434497600b1a610b749d6deef4ccf4aea36b9f88a60df85d945a4602635,2022-01,Cambridgeshire Constabulary,Cambridgeshire Constabulary,On or near Lion Yard,Bicycle theft,Investigation complete; no suspect identified
+834e18edc4e7a914ca1ff8ca517e657c55c855a6e8dd24b1607facf6b6051d32,2022-03,Avon and Somerset Constabulary,Avon and Somerset Constabulary,On or near Welsh Court,Other crime,Suspect charged
+a220e1f701ed7e3163b4b209a16ae24f5d2c77d8d72b968fd6523e7625f4d8d2,2021-02,Metropolitan Police Service,Metropolitan Police Service,On or near Belgrove Street,Criminal damage and arson,Suspect charged
+365b1f243522e3738c7f3943ba4eadf3b3f63e93e68e60e7dde8164d40182ae7,2022-01,Kent Police,Kent Police,On or near Petrol Station,Shoplifting,Investigation complete; no suspect identified
+8b20243cb1a79ae15d2eb6946c0d1398e2edeae794f84ad4adf7044eb828f54f,2022-05,Sussex Police,Sussex Police,On or near Bedfordwell Road,Criminal damage and arson,Investigation complete; no suspect identified
+8305846b5d755877d1dee2869cab3d1cb3135409c33b56f0275f50157c09d492,2022-01,Dyfed-Powys Police,Dyfed-Powys Police,On or near Feidir Fair,Violence and sexual offences,Unable to prosecute suspect
+cec17675b439abc9c846908153e97321533a3bb79902027396ad5e4ad516d019,2020-07,Sussex Police,Sussex Police,On or near Rock Grove,Public order,Investigation complete; no suspect identified
+bb417151cf0990c5a087469a9c06534d5546f4d241ecdc529e245ccf868b819f,2020-08,Durham Constabulary,Durham Constabulary,On or near Hilda Street,Criminal damage and arson,Unable to prosecute suspect
+e4ca9727619b2661a26e467918b36c2840147be16e363d1b20dfdb8b5ad7c9eb,2020-08,Thames Valley Police,Thames Valley Police,On or near Nene Close,Public order,Unable to prosecute suspect
+9545949c277f22f1e3a46d279a1f00cc1823be03a65eb346cacafe8e5a3f2934,2020-02,South Wales Police,South Wales Police,On or near Alexandra Place,Violence and sexual offences,Suspect charged
+8b1a22540ef451804a3613eb0f8758e457112e7b699395517adefa5a74245cc1,2021-02,Metropolitan Police Service,Metropolitan Police Service,On or near Southend Lane,Other theft,Investigation complete; no suspect identified
+87cc6fbe611aebfe38aee98f2e2b3a42f6030a482aa204a6c856df25d71f0285,2020-09,Leicestershire Police,Leicestershire Police,On or near Leicester Road,Violence and sexual offences,Unable to prosecute suspect
+57e540e90ee6b3b0d2654a63dcfc6f0d8204437cdf06faa7b497abe62a0b0c00,2020-04,Humberside Police,Humberside Police,On or near Canon Tardrew Close,Burglary,Investigation complete; no suspect identified
+5c97cb242367167f29115f0482fd56be4c65516fc4d1dbe015299fc3763b6eea,2021-12,West Yorkshire Police,West Yorkshire Police,On or near Salem Street,Violence and sexual offences,Unable to prosecute suspect
+45217f686d2702d9aca7df538c6263788e7fc705f2907cfa834e90998de8240c,2021-12,West Yorkshire Police,West Yorkshire Police,On or near Back Ashley Street,Public order,Investigation complete; no suspect identified
+684f1bffe2eb97f4856f3c21fb484435ab0773eb4802a99b61afbf9fe43c95de,2021-02,Essex Police,Essex Police,On or near Botany Way,Other theft,Investigation complete; no suspect identified
+6fb95054b3acf9dee4eb879dbab6c3cfee63bdd7582aea186cee27ac137615e4,2022-07,Metropolitan Police Service,Metropolitan Police Service,On or near Adair Road,Criminal damage and arson,Investigation complete; no suspect identified
+b52da3adff02486356695854d14981aec44a6442f7351fdf5202fbae5d9414c8,2022-09,Bedfordshire Police,Bedfordshire Police,On or near Yew Tree Close,Criminal damage and arson,Investigation complete; no suspect identified
+48e023efbdf83322c0bc9944df0a4b25c21a4bad6eff01e7141385f23d488c50,2022-10,Lancashire Constabulary,Lancashire Constabulary,On or near Oregon Avenue,Violence and sexual offences,Unable to prosecute suspect
+8c84c26084c94bbe90b0ca7c7a6441779b79de4a85ff2b862c7aff7c40c9b96c,2022-04,Cheshire Constabulary,Cheshire Constabulary,On or near John Nicholas Crescent,Public order,Unable to prosecute suspect
+bff4b2acfd909b468e92e02bc8ea6662d2477f435a72d467ccedb48cbeeea36e,2021-07,West Mercia Police,West Mercia Police,On or near B4397,Violence and sexual offences,Unable to prosecute suspect
+435ee993534f98d67784be56052ed383d33ae654b1b0d68df2595c871bdcae70,2020-06,Nottinghamshire Police,Nottinghamshire Police,On or near Eltham Drive,Violence and sexual offences,Unable to prosecute suspect
+95b12f6aa2a47afa24b62c7868dcbcfe2b5bcc03ed73998eb944511ae12cdb70,2022-09,Hampshire Constabulary,Hampshire Constabulary,On or near Bellevue Lane,Public order,Unable to prosecute suspect
+3a723e1b9684dae5a47048c90a715e151e5563582c0f37b1b988a12a382c42eb,2020-12,Suffolk Constabulary,Suffolk Constabulary,On or near Park/Open Space,Public order,Unable to prosecute suspect
+3fd6558fff5ff38d28a7c4c33bcc3c7024e44e6974d027f4a5049f691a31ee5a,2022-10,Derbyshire Constabulary,Derbyshire Constabulary,On or near Low Common,Other theft,Investigation complete; no suspect identified
+089d1cd06b95018ec75ce05d7d65ad9740abee1aa9d243bb88dbb0e2cbb366c3,2022-02,Suffolk Constabulary,Suffolk Constabulary,On or near King Street,Violence and sexual offences,Investigation complete; no suspect identified
+4bf7bbcadf3a9ffde372c4a301d75f7510198af09567998e6a7762f2e43bc0d2,2021-12,West Midlands Police,West Midlands Police,On or near Cottage Farm Road,Other theft,Investigation complete; no suspect identified
+109cb92c10331dc4c22d3196253ae61e07a21ea1b792fa680fc1804eec6e209b,2020-09,Metropolitan Police Service,Metropolitan Police Service,On or near Verona Drive,Vehicle crime,Suspect charged
+20f338b572a692dccbc847d95ee06ff314f85162e88d7c04201fb468fa0c69bf,2022-04,Gloucestershire Constabulary,Gloucestershire Constabulary,On or near Hempsted Lane,Other theft,Investigation complete; no suspect identified
+eca60701fabf464e2c5d38040cde226871def227fe95d93b3c63e0ae286d5c07,2021-04,South Yorkshire Police,South Yorkshire Police,On or near Slade Road,Violence and sexual offences,Unable to prosecute suspect
+1b46d6009d0a0e46fc9103e5976023cbcdddb20f7dab25fb5f1fb4ed381af91a,2022-03,West Midlands Police,West Midlands Police,On or near Redmoor Way,Violence and sexual offences,Unable to prosecute suspect
+fcf7220476e6de83fec75f7f4c12c8cdee0d6f6204aa212b4e4e60cfe4fc5456,2021-06,Metropolitan Police Service,Metropolitan Police Service,On or near Clapham Road,Vehicle crime,Investigation complete; no suspect identified
+5daa71b6124b4711accb7e82f2ed8f92f4b6a179901d7db17b9668322ef7422d,2020-11,West Yorkshire Police,West Yorkshire Police,On or near Supermarket,Shoplifting,Investigation complete; no suspect identified
+a726fa1b805c65f0facbb10b04640b86d2f93246021bac49315aa0350343ec78,2020-06,Durham Constabulary,Durham Constabulary,On or near Gregson Street,Violence and sexual offences,Unable to prosecute suspect
+7cbc361af6a2279baa775c8e9eed1ebb0835c5c012026ab840c21d49429543d0,2020-01,Bedfordshire Police,Bedfordshire Police,On or near Crowsley Road,Vehicle crime,Investigation complete; no suspect identified
+9d9d044c3f0271c9bb9e653805196fb91ec0a328ff8a5dfc622f647dd9cedf49,2021-10,Metropolitan Police Service,Metropolitan Police Service,On or near Exmouth Place,Theft from the person,Investigation complete; no suspect identified
+dacd1559c904fc951a081b54e0f7c0cbb84a7067a4b39858d6722e6eb119293c,2020-12,North Wales Police,North Wales Police,On or near Maesteg,Burglary,Investigation complete; no suspect identified
+ae4fc095f90b3df2077c0c455effd276ea66c2c7553b2cbe50cb4158f44dfa49,2022-05,Norfolk Constabulary,Norfolk Constabulary,On or near North Beach,Bicycle theft,Investigation complete; no suspect identified
+807b3bc401149913fcbdd1add8de1483041f4ed8ff3f160c8cf2989de9189f51,2020-02,Metropolitan Police Service,Metropolitan Police Service,On or near Ferris Road,Burglary,Investigation complete; no suspect identified
+bdd81d7f128e7519d7053bf7abf8e0193add5a0f5bc7e2784f4692cd34d89c21,2021-12,Hertfordshire Constabulary,Hertfordshire Constabulary,On or near Parking Area,Other theft,Investigation complete; no suspect identified
+8447210b2d8e59c74e0eb9ac294442ca6f46b58e23c49bbe1b329d0340448a00,2020-12,Metropolitan Police Service,Metropolitan Police Service,On or near Eburne Road,Robbery,Investigation complete; no suspect identified
+d944f773be20237cc814c4425bcf92fbce413d7457d3efc0714c29a05ce5a3f8,2022-06,Metropolitan Police Service,Metropolitan Police Service,On or near Kendal Close,Other theft,Investigation complete; no suspect identified
+9c6f52868f4700e4368d1251e99792cac65e1750d92fd30cbb8a6f378f3e37e9,2022-04,Metropolitan Police Service,Metropolitan Police Service,On or near Westhurst Drive,Shoplifting,Investigation complete; no suspect identified
+c004f8fd126dfa8479ee3f708a7114f9a8c3b54ff2dba882e0e04a97cfdd858e,2020-12,West Yorkshire Police,West Yorkshire Police,On or near Langbar Garth,Violence and sexual offences,Unable to prosecute suspect
+e5c35461ca26460f720da244a9d93abe03e31b82100b297b1e4661cd461b329c,2020-11,Humberside Police,Humberside Police,On or near Bus/Coach Station,Shoplifting,Investigation complete; no suspect identified
+2fe0f690150a55145ecb2e06fa5f6abf334c253ed0c2b7a9733c7a331db7bf96,2022-07,Essex Police,Essex Police,On or near Westminster Drive,Violence and sexual offences,Unable to prosecute suspect
+166b01099fa5f52a02a2527cce19943d647e3b3d320ec25b4d3642436616981d,2021-06,Essex Police,Essex Police,On or near Sutton Road,Robbery,Unable to prosecute suspect
+a9d18a8a21d29be783cfeea5302bdfe51aa6df597384266218f7884a2e42bc36,2022-07,Cambridgeshire Constabulary,Cambridgeshire Constabulary,On or near Henley Way,Shoplifting,Investigation complete; no suspect identified
+8bb4d013e6edf7840fe9920c03fd64d53ceb4685008f63e17933304c20c81ee5,2020-05,North Yorkshire Police,North Yorkshire Police,On or near Hospital,Other theft,Investigation complete; no suspect identified
+91fa75d79fdb55e07b74f473750002b53a998f8f5f31a93140fc82aac55dae65,2020-05,Merseyside Police,Merseyside Police,On or near Silverstone Grove,Violence and sexual offences,Unable to prosecute suspect
+3e45a9a67256f3ac88db11f82f7f581d0fa39fdef4bff4fc953b7260119ed259,2020-08,Metropolitan Police Service,Metropolitan Police Service,On or near Neats Acre,Robbery,Investigation complete; no suspect identified
