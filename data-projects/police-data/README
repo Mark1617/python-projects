@@ -1,1 +1,15 @@
-This is an extraction and cleaning of data taken from a free-to-use police API.
+This is an extraction and cleaning of data taken from a free-to-use police API. The API had no endpoint and therefore after a large amount of 
+testing and trying I decided to download the data instead and use it locally.
+
+Included in this folder is a Jupyter file that involves code and comments working to clean, combine and export locally stored police data that
+has been downloaded from the https://data.police.uk/data/ API site.
+
+The output is in the form of two SQLite databases, and two CSV files. Each CSV file mirrors a respective SQLite table, one representing all the
+crime data stored in the parent folder that has an associated outcome, another that counts the number of crimes that do not have outcomes, with
+respect to the station responsible.
+
+Unfortunately the file for the main crime table is too large to store in github without using the lsf extension. As such I have included my source
+code, which produces the following tables, along with the first 100 rows of the main crime CSV file, and the whole station outcome table CSV file.
+
+
+
